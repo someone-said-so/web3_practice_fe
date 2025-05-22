@@ -1,2 +1,2 @@
 # web3_practice_fe
-東大ブロックチェーン講座練習量FrontEnd
+東大ブロックチェーン講座練習用FrontEnd
